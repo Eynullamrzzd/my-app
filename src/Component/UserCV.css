@@ -1,0 +1,13 @@
+.car{
+
+  color: white;
+width: 600px;
+margin: 50px auto;
+padding:8px 15px;
+border-radius: 20px;
+border: 1px solid #323B4C;
+background-color: teal;
+}
+span{
+  color: yellow
+}
